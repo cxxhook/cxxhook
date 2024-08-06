@@ -204,7 +204,7 @@
     }],
     "workList": [],
     "aboutme": {
-        "aboutme_desc": "技术栈：Golang, C(11), C++(17), Objective-C, PHP(7), JavaScript, Lua, Python2/3，C混合编程\n较了解的汇编：ARM64 ,IntelX86\n常用的构建系统：GCC7.5, LLVM16.0, CMAKE3.25\n常用的编辑器IDE：VSCODE, XCODE, Visual Studio\n常用的操作系统：Centos7, Ubuntu20/WSL2, MacOS, iOS\n综合技能组成：50%服务端相关技术 with 40%App逆向分析技术 with 10%其他\n技术选项偏好：不喜欢拿来主义，不喜欢使用过度封装的重型框架和库，偏向掌握核心原理轻量化高效解决问题\n代码书写偏好：没有过多的设计模式，很少有超过3层ifsle，注重代码简洁易懂，注重模块化\n生活习惯爱好：宅家，大型PC网游，宠物猫，国产动漫，天文学\n个人缺点：不太喜欢做书面总结所以也没有博客也不太喜欢写非常详细的文档；开发复杂UI界面缺少耐心\n\n"
+        "aboutme_desc": "技术栈：Golang, C(11), C++/GUN++(17), Objective-C, PHP(7), JavaScript, Lua, Python2/3, C混合编程\n较了解的汇编：ARM64,&nbsp;IntelX86\n常用的构建系统：GCC7.5,&nbsp;LLVM16.0,&nbsp;CMAKE3.25\n常用的编辑器IDE：VSCODE,&nbsp;XCODE,&nbsp;Visual Studio\n常用的操作系统：Centos7,&nbsp;Ubuntu20/WSL2,&nbsp;MacOS,&nbsp;iOS\n综合技能组成：50%服务端相关技术 with 40%App逆向分析技术 with 10%其他\n技术选项偏好：不喜欢拿来主义，不喜欢使用过度封装的重型框架和库，偏向掌握核心原理轻量化高效解决问题\n代码书写偏好：没有过多的设计模式，很少有超过3层ifsle，注重代码简洁易懂，注重模块化\n生活习惯爱好：宅家，大型PC网游，宠物猫，国产动漫，天文学\n个人缺点：不太喜欢做书面总结所以也没有博客也不太喜欢写非常详细的文档；开发复杂UI界面缺少耐心\n\n"
     },
     "theme": {
         "color": "#2f5785",
